@@ -7,7 +7,6 @@ This is a react-typescript-webpack-starterkit 🤷🏻‍♂️
 - React 17
 - TypeScript 4
 - Webpack 5
-- Babel 7
 - Hot Module Replacement
 - ESLint
 - Prettier
